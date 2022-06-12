@@ -1,0 +1,35 @@
+{
+    "name": "deepdark",
+    "displayName": "Deep Dark",
+    "description": "It's deep it's dark and scary but it's easy on the eye",
+    "version": "0.0.1",
+    "publisher": "RachitBhusal",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "vscode",
+        "theme",
+        "deepdark",
+        "dark",
+        "spooky",
+        "verydark"
+    ],
+    "icon": "deepdark.jpg",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deep Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deep Dark Pro-color-theme.json"
+            }
+        ]
+    }
+}
