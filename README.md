@@ -1,2 +1,1 @@
-# [Deep Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
+# [Deep Dark Pro](https://marketplace.visualstudio.com/items?itemName=RachitBhusal.deepdark)
